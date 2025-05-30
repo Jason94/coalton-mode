@@ -4,7 +4,6 @@
 ;;;; URL: http://github.com/coalton-lang/coaltom
 ;;;; Keywords: languages Coalton Lisp
 ;;;; Version: 1.0.0
-;;;; Package-Requires: ((Emacs "26.3"))
 ;;;;
 ;;;; This file contains functions for in-Emacs structural operations on
 ;;;; Coalton code, including syntax highlighting, indentation and
